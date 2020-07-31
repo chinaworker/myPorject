@@ -4,9 +4,9 @@ import time
 
 
 desp, status = '', ''
-sckey = 'SCU62271Te68100a706158bd4416cf502f331360b5d8998e48cdaa'
+sckey = '###'
 city = '邵阳县'
-appkey = '8ff1f6e2dc2331ff96289fcd9c8a14d4'
+appkey = '##'
 
 
 def getweather():
